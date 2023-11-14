@@ -1,0 +1,35 @@
+.Open_Sans {
+    font-family: Open Sans, sans-serif;
+    font-weight: 300px;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.minus {
+    text-decoration: line-through;
+    font-weight: 150;
+}
+
+.latin {
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.purpul {
+    text-shadow: 1px 1.5px 1px rgb(182, 178, 178);
+    color: rgb(94, 1, 94);
+    word-spacing: 30px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(94, 1, 94);
+    
+}
+
+.five_px {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+
+}
